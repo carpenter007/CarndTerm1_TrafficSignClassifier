@@ -56,3 +56,5 @@ Follow the instructions in the `Traffic_Sign_Classifier.ipynb` notebook and writ
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+# CarndTerm1_TrafficSignClassifier
+This is my second project in term1 in the self-driving car course of Udacity. By using the CovNet LeNet-5 architecture the system is able to classify German traffic signs
